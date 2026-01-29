@@ -10,9 +10,9 @@ A lightweight and efficient Google Chrome extension designed to help you save UR
 This extension solves the problem of losing important research tabs or leads. Instead of bookmarking every single page and cluttering your browser bar, you can simply click "Save Tab" to store the URL in a neat list. It also allows for manual input of URLs and features a "Double-Click to Delete" safety mechanism to clear your list.
 
 ## 📸 Screenshots
-![Platform Preview](screenshots/tabsaver1.png)
-![Inputting Tab](screenshots/tabsaver2.png)
-![Saving the tab](screenshots/tabsaver3.png) 
+![Platform Preview](screenshots/tabSaver1.png)
+![Inputting Tab](screenshots/tabSaver2.png)
+![Saving the tab](screenshots/tabSaver3.png) 
 
 ## ✨ Key Features
 
